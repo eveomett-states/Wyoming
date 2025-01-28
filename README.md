@@ -20,7 +20,7 @@ Obtain the following data from Restricting Data Hub
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-wyoming-precinct-and-election-results/  )**:**  VEST 2016 wyoming precinct and election results
 
 ## Preprocessing
-Demographic data were aggregated from the block level using MGGG’s proration software [maup](https://github.com/mggg/maup). Congressional, house, and senate district IDs were assigned to precincts also using this package.
+Demographic data were aggregated from the block level using MGGG’s proration software [maup](https://github.com/mggg/maup). 
 
 # **Metadata**
 
@@ -30,7 +30,6 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `COUNTYFP20`: County FIPS code
 - `VTDST20`: Voting tabulation district FIPS code
 - `NAME20`: Voting tabulation district name
-- `CD`: Congressional district ID in 2022 enacted congressional map
 - `SEND`: State Senate district for 2021 State Senate Adopted Plan
 - `HDIST`: State House district for 2024 State House of Representatives Districts Plan
 - `TOTPOP`: Total population in 2020 Census
@@ -58,27 +57,41 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `NHPIVAP`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population in 2020 Census
 - `OTHERVAP`: Other race, non-hispanic, voting age population in 2020 Census
 - `2MOREVAP`: Two or more races, non-hispanic, voting age population in 2020 Census
-- `ATG18D`: Number of votes for 2018 Democratic attorney general candidate
-- `ATG18R`: Number of votes for 2018 Republican attorney general candidate
-- `ATG18O`: Number of votes for 2018 other party's attorney general candidate
+- `AUD18D`: Number of votes for 2018 Democratic auditor candidate
+- `AUD18R`: Number of votes for 2018 Republican auditor candidate
+- `AUD18O`: Number of votes for 2018 other party's auditor candidate
 - `GOV18D`: Number of votes for 2018 Democratic gubernatorial candidate
 - `GOV18R`: Number of votes for 2018 Republican gubernatorial candidate
 - `GOV18O`: Number of votes for 2018 other party's gubernatorial candidate
+- `HAL16D`: Number of votes for 2016 Democratic US House candidate
+- `HAL16R`: Number of votes for 2016 Republican US House candidate
+- `HAL16O`: Number of votes for 2016 other party's US House candidate
+- `HAL18D`: Number of votes for 2018 Democratic US House candidate
+- `HAL18R`: Number of votes for 2018 Republican US House candidate
+- `HAL18O`: Number of votes for 2018 other party's US House candidate
+- `HAL20D`: Number of votes for 2020 Democratic US House candidate
+- `HAL20R`: Number of votes for 2020 Republican US House candidate
+- `HAL20O`: Number of votes for 2020 other party's US House candidate
+- `PRE16D`: Number of votes for 2016 Democratic presidential candidate
+- `PRE16R`: Number of votes for 2016 Republican presidential candidate
+- `PRE16O`: Number of votes for 2016 other party's presidential candidate
 - `PRE20D`: Number of votes for 2020 Democratic presidential candidate
 - `PRE20R`: Number of votes for 2020 Republican presidential candidate
 - `PRE20O`: Number of votes for 2020 other party's presidential candidate
-- `SOS18D`: Number of votes for 2018 Democratic Secretary of State
-- `SOS18R`: Number of votes for 2018 Republican Secretary of State
-- `SOS18O`: Number of votes for 2018 other party's Secretary of State
-- `TRE18D`: Number of votes for 2018 Democratic Treasurer
-- `TRE18R`: Number of votes for 2018 Republican Treasurer
-- `TRE18O`: Number of votes for 2018 other party's Treasurer
+- `SOS18D`: Number of votes for 2018 Democratic Secretary of State candidate
+- `SOS18R`: Number of votes for 2018 Republican Secretary of State candidate
+- `SOS18O`: Number of votes for 2018 other party's Secretary of State candidate
+- `SPI18R`: Number of votes for 2018 Republican Superintendent of Public Instruction candidate
+- `SPI18O`: Number of votes for 2018 other party's Superintendent of Public Instruction candidate
+- `TRE18D`: Number of votes for 2018 Democratic Treasurer candidate
+- `TRE18R`: Number of votes for 2018 Republican Treasurer candidate
+- `TRE18O`: Number of votes for 2018 other party's Treasurer candidate
+- `USS18D`: Number of votes for 2018 Democratic senate candidate
+- `USS18R`: Number of votes for 2018 Republican senate candidate
+- `USS18O`: Number of votes for 2018 other party's senate candidate
 - `USS20D`: Number of votes for 2020 Democratic senate candidate
 - `USS20R`: Number of votes for 2020 Republican senate candidate
 - `USS20O`: Number of votes for 2020 other party's senate candidate
-- `COM18D`: Number of votes for 2018 Democratic Comptroller
-- `COM18R`: Number of votes for 2018 Republican Comptroller
-- `COM18O`: Number of votes for 2018 other party's Comptroller
 
 ## Projection
 This shapefile uses a NAD83(Harn)/UTM zone 17 North projection (EPSG:3747).
