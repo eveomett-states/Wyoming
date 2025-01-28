@@ -3,11 +3,11 @@
 This shapefile was processed by Professor Ellen Veomett and her student Ananya Agarwal.
 
 # **Sources**
-@author: eveomett AI for Redistricting, USF All data retrieved 05/29/24:
+All data retrieved 05/29/24:
 
 Obtain the following data from Restricting Data Hub
 
-[Population data](  ): based on the decennial census at the Census Block level on 2020 Census Redistricting Data
+[Population data]( https://redistrictingdatahub.org/dataset/wyoming-block-pl-94171-2020-by-table/): based on the decennial census at the Census Block level on 2020 Census Redistricting Data
 
 [State House District data](https://redistrictingdatahub.org/dataset/2022-wyoming-state-house-of-representatives-districts-approved-plan/): 2022 State House Approved Plan
 
