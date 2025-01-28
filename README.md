@@ -1,6 +1,11 @@
-# wyoming Election Shapefile
+# License
+This data was generated using data from the Redistricting Data Hub.  Any use of this project shall also comply with restrictions on use of data and attribution requirements set forth in the Redistricting Data Hub terms and conditions found at: [https://redistrictingdatahub.org/terms-and-conditions/](https://redistrictingdatahub.org/terms-and-conditions/).
 
-This shapefile was processed by Professor Ellen Veomett and her student Ananya Agarwal.
+Use of this project is further governed by the terms of the [Creative Commons Attribution Noncommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+
+# Wyoming Json
+
+This json was created by Professor Ellen Veomett and her student Ananya Agarwal using the corresponding jupyter notebook.
 
 # **Sources**
 All data retrieved 05/29/24:
@@ -20,7 +25,7 @@ Obtain the following data from Restricting Data Hub
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-wyoming-precinct-and-election-results/  )**:**  VEST 2016 wyoming precinct and election results
 
 ## Preprocessing
-Demographic data were aggregated from the block level using MGGG’s proration software [maup](https://github.com/mggg/maup). 
+Data were cleaned and aggregated using MGGG’s maup software [maup](https://github.com/mggg/maup). 
 
 # **Metadata**
 
