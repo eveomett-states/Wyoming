@@ -3,9 +3,9 @@ This data was generated using data from the Redistricting Data Hub.  Any use of 
 
 Use of this project is further governed by the terms of the [Creative Commons Attribution Noncommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
 
-# Wyoming Json
+# Wyoming Json and Shapefile
 
-This json was created by Professor Ellen Veomett and her student Ananya Agarwal using the corresponding jupyter notebook.
+This json and shapeifle were created by Professor Ellen Veomett and her student Ananya Agarwal using the corresponding jupyter notebook.
 
 # **Sources**
 All data retrieved 05/29/24:
