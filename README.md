@@ -24,8 +24,8 @@ Obtain the following data from Restricting Data Hub
 
 [2016 election data](https://redistrictingdatahub.org/dataset/vest-2016-wyoming-precinct-and-election-results/  )**:**  VEST 2016 wyoming precinct and election results
 
-## Preprocessing
-Data were cleaned and aggregated using MGGG’s maup software [maup](https://github.com/mggg/maup). 
+## Processing
+Data were cleaned and aggregated using MGGG’s python library [maup](https://github.com/mggg/maup).  
 
 # **Metadata**
 
