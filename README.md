@@ -97,6 +97,3 @@ Below is a brief description of each of the listed variables in the attribute ta
 - `USS20D`: Number of votes for 2020 Democratic senate candidate
 - `USS20R`: Number of votes for 2020 Republican senate candidate
 - `USS20O`: Number of votes for 2020 other party's senate candidate
-
-## Projection
-This shapefile uses a NAD83(Harn)/UTM zone 17 North projection (EPSG:3747).
