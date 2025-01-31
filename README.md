@@ -29,8 +29,6 @@ Data were cleaned and aggregated in the corresponding jupyter notebook using MGG
 
 # **Metadata**
 
-Below is a brief description of each of the listed variables in the attribute table of the VTD shapefile:
-
 - `STATEFP20`: State FIPS code
 - `COUNTYFP20`: County FIPS code
 - `VTDST20`: Voting tabulation district FIPS code
